@@ -3,4 +3,8 @@ Word Counter is python Django based application used to count the number of word
 
 You can install django using following command
 
- `pip install Django`
+ ```
+ 
+ pip install Django
+ 
+ ```
